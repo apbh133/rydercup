@@ -49,8 +49,8 @@
 
 
 <!--Round 1-->
-<h2>Thursday Best Ball @ The Tradition</h2>
-<h3>Tee Times: 4:00pm, 4:09pm, 4:18pm, 4:27pm </h3>
+<h2>Thursday Best Ball @ The Heather</h2>
+<h3>Tee Times: 1:00pm, 1:10pm, 1:20pm </h3>
 
 <table class="matchup">
     <tr>
@@ -139,31 +139,6 @@
     </tr>
 <!--End of 3rd Foursome-->
 
-<!--4th Foursome-->
-    <tr>
-        <!--Team USA Player 1-->
-        <td>USA</td>
-        <!--Team USA HCP Player 1-->
-        <td>--</td>
-        <!--Team Europe Player 1-->
-        <td>Europe</td>
-        <!--Team Europe HCP Player 1-->
-        <td>--</td>
-        <!--Points Awarded To-->
-        <td rowspan="2">TBD</td>
-        <td rowspan="2">1 Point Possible</td>
-    </tr>
-    <tr style="border-bottom: solid 2px green;">
-        <!--Team USA Player 2-->
-        <td>USA</td>
-        <!--Team USA HCP Player 2-->
-        <td>--</td>
-        <!--Team Europe Player 2-->
-        <td>Europe</td>
-        <!--Team Europe HCP Player 2-->
-        <td>--</td>
-    </tr>
-<!--End of 4th Foursome-->
 
 </table>
 <br>
@@ -176,8 +151,8 @@
 
 
 <!--Round 2-->
-<h2><span>Friday AM Best Ball @ The Masterpiece</span></h2>
-<h3><span>Tee Times: 9:00am, 9:09am, 9:18am, 9:27am </span></h3>
+<h2><span>Friday AM Best Ball @ Donald Ross Memorial</span></h2>
+<h3><span>Tee Times: 8:00am, 8:10am, 8:20am </span></h3>
 <table class="matchup">
     <tr>
         <th>Team USA</th>
@@ -265,31 +240,6 @@
     </tr>
 <!--End of 3rd Foursome-->
 
-<!--4th Foursome-->
-    <tr>
-        <!--Team USA Player 1-->
-        <td>USA</td>
-        <!--Team USA HCP Player 1-->
-        <td>--</td>
-        <!--Team Europe Player 1-->
-        <td>Europe</td>
-        <!--Team Europe HCP Player 1-->
-        <td>--</td>
-        <!--Points Awarded To-->
-        <td rowspan="2">TBD</td>
-        <td rowspan="2">1 Point Possible</td>
-    </tr>
-    <tr style="border-bottom: solid 2px green;">
-        <!--Team USA Player 2-->
-        <td>USA</td>
-        <!--Team USA HCP Player 2-->
-        <td>--</td>
-        <!--Team Europe Player 2-->
-        <td>Europe</td>
-        <!--Team Europe HCP Player 2-->
-        <td>--</td>
-    </tr>
-<!--End of 4th Foursome-->
 
 </table>
 <br>
@@ -300,8 +250,8 @@
 
 
 <!--Round 3-->
-<h2><span>Friday PM Best Ball @ Signature</span></h2>
-<h3><span>Tee Times: 3:00pm, 3:09pm, 3:18pm, 3:27pm </span></h3>
+<h2><span>Friday PM Best Ball @ The Moor</span></h2>
+<h3><span>Tee Times: 2:30pm, 2:40pm, 2:50pm </span></h3>
 <table class="matchup">
     <tr>
         <th>Team USA</th>
@@ -389,31 +339,6 @@
     </tr>
 <!--End of 3rd Foursome-->
 
-<!--4th Foursome-->
-    <tr>
-        <!--Team USA Player 1-->
-        <td>USA</td>
-        <!--Team USA HCP Player 1-->
-        <td>--</td>
-        <!--Team Europe Player 1-->
-        <td>Europe</td>
-        <!--Team Europe HCP Player 1-->
-        <td>--</td>
-        <!--Points Awarded To-->
-        <td rowspan="2">TBD</td>
-        <td rowspan="2">1 Point Possible</td>
-    </tr>
-    <tr style="border-bottom: solid 2px green;">
-        <!--Team USA Player 2-->
-        <td>USA</td>
-        <!--Team USA HCP Player 2-->
-        <td>--</td>
-        <!--Team Europe Player 2-->
-        <td>Europe</td>
-        <!--Team Europe HCP Player 2-->
-        <td>--</td>
-    </tr>
-<!--End of 4th Foursome-->
 
 </table>
 <br>
@@ -425,8 +350,8 @@
 
 
 <!--Round 4-->
-<h2><span>Saturday Head to Head @ Premier </span></h2>
-<h3><span>Tee Times: 9:00am, 9:09am, 9:18am, 9:27am</span></h3>
+<h2><span>Saturday Head to Head @ Arthur Hills </span></h2>
+<h3><span>Tee Times: 10:00am, 10:10am, 10:20am</span></h3>
 <table class="matchup">
     <tr>
         <th>Team USA</th>
@@ -520,33 +445,6 @@
     </tr>
 <!--End of 3rd Foursome-->
 
-<!--4th Foursome-->
-    <tr>
-        <!--Team USA Player 1-->
-        <td>USA</td>
-        <!--Team USA HCP Player 1-->
-        <td>--</td></td>
-        <!--Team Europe Player 1-->
-        <td>Europe</td>
-        <!--Team Europe HCP Player 1-->
-        <td>--</td>
-        <!--Points Awarded To-->
-        <td>TBD</td>
-        <td rowspan="2">2 Points Possible</td>
-    </tr>
-    <tr style="border-bottom: solid 2px green;">
-        <!--Team USA Player 2-->
-        <td>USA</td>
-        <!--Team USA HCP Player 2-->
-        <td>--</td>
-        <!--Team Europe Player 2-->
-        <td>Europe</td>
-        <!--Team Europe HCP Player 2-->
-        <td>--</td>
-        <!--Points Awarded To-->
-        <td>TBD</td>
-    </tr>
-<!--End of 4th Foursome-->
 
 
 </table>
